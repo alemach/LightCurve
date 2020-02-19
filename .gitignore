@@ -1,0 +1,46 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+/src/main/resources/downloadScript/injected-light-curves-dr25-inj1.txt
+/mvnw.cmd
+/mvnw
+/.mvn/
+/src/main/webapp/WEB-INF/views/401.html
+/src/main/webapp/WEB-INF/views/404.html
+/src/main/webapp/WEB-INF/views/500.html
+/src/main/webapp/WEB-INF/views/charts.html
+/src/main/webapp/WEB-INF/views/index.html
+/src/main/webapp/WEB-INF/views/layout-sidenav-light.html
+/src/main/webapp/WEB-INF/views/layout-static.html
+/src/main/webapp/WEB-INF/views/login.html
+/src/main/webapp/WEB-INF/views/password.html
+/src/main/webapp/WEB-INF/views/register.html
+/src/main/webapp/WEB-INF/views/tables.html
